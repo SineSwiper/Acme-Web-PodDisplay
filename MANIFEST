@@ -9,6 +9,9 @@ README.html
 README.pod
 dist.ini
 lib/Acme/Web/PodDisplay.pm
+lib/Acme/Web/PodDisplay.pod
+lib/Acme/Web/PodDisplay/Deeper.pm
+lib/Acme/Web/PodDisplay/Hidden.pm
 t/00-check-deps.t
 t/00-compile.t
 t/00-load.t

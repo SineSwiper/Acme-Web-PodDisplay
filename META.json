@@ -45,6 +45,10 @@
       "Acme::Web::PodDisplay" : {
          "file" : "lib/Acme/Web/PodDisplay.pm",
          "version" : "0.90"
+      },
+      "Acme::Web::PodDisplay::Deeper" : {
+         "file" : "lib/Acme/Web/PodDisplay/Deeper.pm",
+         "version" : "0.90"
       }
    },
    "release_status" : "stable",
