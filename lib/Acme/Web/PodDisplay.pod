@@ -1,12 +1,3 @@
-package Acme::Web::PodDisplay;
-
-# VERSION
-# ABSTRACT: Module for testing various CPAN web interfaces and their POD interactions
-
-42;
-
-__END__
-
 =encoding utf8
 
 =head1 SYNOPSIS
@@ -19,7 +10,7 @@ Acme::Web::PodDisplay does nothing.  It's used to test how various CPAN web inte
 
 =head1 SOURCE
 
-This POD documentation is from the PodDisplay.pm file.
+This POD documentation is from the PodDisplay.pod file.
 
 =head1 SIMPLE POD
 
@@ -298,5 +289,3 @@ Text within Header Three
 =head4 Header Four
 
 Text within Header Four
-
-=cut

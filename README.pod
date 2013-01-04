@@ -1,13 +1,8 @@
-package Acme::Web::PodDisplay;
+=pod
 
-# VERSION
-# ABSTRACT: Module for testing various CPAN web interfaces and their POD interactions
+=head1 NAME
 
-42;
-
-__END__
-
-=encoding utf8
+Acme::Web::PodDisplay - Module for testing various CPAN web interfaces and their POD interactions
 
 =head1 SYNOPSIS
 
@@ -16,6 +11,8 @@ __END__
 =head1 DESCRIPTION
 
 Acme::Web::PodDisplay does nothing.  It's used to test how various CPAN web interfaces work with combinations of PM and POD files.
+
+=encoding utf8
 
 =head1 SOURCE
 
@@ -112,11 +109,7 @@ cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est la
 
 =head2 Comment
 
-=begin comment
-
-NINJA!  I'm invisible!
-
-=end comment
+=for comment NINJA!  I'm invisible!
 
 =for comment INVIS FOR BLOCK!
 
@@ -299,4 +292,51 @@ Text within Header Three
 
 Text within Header Four
 
-=cut
+=head1 AVAILABILITY
+
+The project homepage is L<https://github.com/SineSwiper/Acme-Web-PodDisplay/wiki>.
+
+The latest version of this module is available from the Comprehensive Perl
+Archive Network (CPAN). Visit L<http://www.perl.com/CPAN/> to find a CPAN
+site near you, or see L<https://metacpan.org/module/Acme::Web::PodDisplay/>.
+
+=for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
+
+=head1 SUPPORT
+
+=head2 Internet Relay Chat
+
+You can get live help by using IRC ( Internet Relay Chat ). If you don't know what IRC is,
+please read this excellent guide: L<http://en.wikipedia.org/wiki/Internet_Relay_Chat>. Please
+be courteous and patient when talking to us, as we might be busy or sleeping! You can join
+those networks/channels and get help:
+
+=over 4
+
+=item *
+
+irc.perl.org
+
+You can connect to the server at 'irc.perl.org' and join this channel: #distzilla then talk to this person for help: SineSwiper.
+
+=back
+
+=head2 Bugs / Feature Requests
+
+Please report any bugs or feature requests via L<L<https://github.com/SineSwiper/Acme-Web-PodDisplay/issues>|GitHub>.
+
+=head1 AUTHOR
+
+Brendan Byrd <BBYRD@CPAN.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+
+Brendan Byrd has dedicated the work to the Commons by waiving all of his
+or her rights to the work worldwide under copyright law and all related or
+neighboring legal rights he or she had in the work, to the extent allowable by
+law.
+
+Works under CC0 do not require attribution. When citing the work, you should
+not imply endorsement by the author.
+

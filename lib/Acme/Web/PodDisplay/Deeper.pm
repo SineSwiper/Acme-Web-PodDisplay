@@ -1,4 +1,4 @@
-package Acme::Web::PodDisplay;
+package Acme::Web::PodDisplay::Deeper;
 
 # VERSION
 # ABSTRACT: Module for testing various CPAN web interfaces and their POD interactions
@@ -11,15 +11,15 @@ __END__
 
 =head1 SYNOPSIS
 
-   use Acme::Web::PodDisplay
+   use Acme::Web::PodDisplay::Deeper
 
 =head1 DESCRIPTION
 
-Acme::Web::PodDisplay does nothing.  It's used to test how various CPAN web interfaces work with combinations of PM and POD files.
+Acme::Web::PodDisplay::Deeper does nothing.  It's used to test how various CPAN web interfaces work with combinations of PM and POD files.
 
 =head1 SOURCE
 
-This POD documentation is from the PodDisplay.pm file.
+This POD documentation is from the Deeper.pm file.
 
 =head1 SIMPLE POD
 

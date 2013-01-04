@@ -1,4 +1,5 @@
-package Acme::Web::PodDisplay;
+package  # hide from PAUSE
+   Acme::Web::PodDisplay::Hidden;
 
 # VERSION
 # ABSTRACT: Module for testing various CPAN web interfaces and their POD interactions
@@ -11,15 +12,15 @@ __END__
 
 =head1 SYNOPSIS
 
-   use Acme::Web::PodDisplay
+   use Acme::Web::PodDisplay::Hidden
 
 =head1 DESCRIPTION
 
-Acme::Web::PodDisplay does nothing.  It's used to test how various CPAN web interfaces work with combinations of PM and POD files.
+Acme::Web::PodDisplay::Hidden does nothing.  It's used to test how various CPAN web interfaces work with combinations of PM and POD files.
 
 =head1 SOURCE
 
-This POD documentation is from the PodDisplay.pm file.
+This POD documentation is from the Hidden.pm file.
 
 =head1 SIMPLE POD
 
