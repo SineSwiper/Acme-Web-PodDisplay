@@ -1,3 +1,6 @@
+# PODNAME: Acme::Web::PodDisplay
+# ABSTRACT: Module for testing various CPAN web interfaces and their POD interactions
+
 =encoding utf8
 
 =head1 SYNOPSIS
