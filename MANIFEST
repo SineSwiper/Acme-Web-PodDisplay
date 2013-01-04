@@ -25,4 +25,3 @@ xt/release/minimum-version.t
 xt/release/no-tabs.t
 xt/release/pod-syntax.t
 xt/release/portability.t
-xt/release/test-version.t
