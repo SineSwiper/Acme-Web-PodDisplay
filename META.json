@@ -42,13 +42,9 @@
       }
    },
    "provides" : {
-      "Acme::Web::PodDisplay" : {
-         "file" : "lib/Acme/Web/PodDisplay.pm",
-         "version" : "0.90"
-      },
       "Acme::Web::PodDisplay::Deeper" : {
          "file" : "lib/Acme/Web/PodDisplay/Deeper.pm",
-         "version" : "0.90"
+         "version" : "0.91"
       }
    },
    "release_status" : "stable",
@@ -64,7 +60,7 @@
       },
       "x_irc" : "irc://irc.perl.org/#distzilla"
    },
-   "version" : "0.90",
+   "version" : "0.91",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.016000"

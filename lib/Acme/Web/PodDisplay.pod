@@ -35,29 +35,91 @@ Z code: NZ<><3
 
 X code: X<topic name>
 
-S code: S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z> S<$x ? $y : $z>
+S code: S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z> | S<$x ? $y : $z>
 
 Links:
 
+=over
+
+=item *
+
 L<Perl Error Messages|perldiag>
+
+=item *
+
 L<postfix "if"|perlsyn/"Statement Modifiers">
+
+=item *
+
 L<The Next Section|/"BEGIN FORMATS">
+
+=item *
+
 L<http://www.perl.org/>
+
+=item *
+
 L<The Perl Home Page|http://www.perl.org/>
+
+=item *
+
 L<Acme::Web::PodDisplay>
+
+=item *
+
 L<Acme::Web::PodDisplay::Deeper>
+
+=item *
+
 L<Acme::Web::PodDisplay::Deeper/html>
+
+=item *
+
 L<The "html" subsection|Acme::Web::PodDisplay::Deeper/html>
+
+=item *
+
+L<load_components|Class::C3::Componentised/load_components( @comps )>
+
+=item *
+
+L<Class::C3::Componentised/load_components( @comps )>
+
+=back
 
 Multi-brackets:
 
+=over
+
+=item *
+
 C<$a E<lt>=E<gt> $b>
+
+=item *
+
 C<< $a <=> $b >>
+
+=item *
+
 C<<< $a <=> $b >>>
+
+=item *
+
 C<<<<  $a <=> $b     >>>>
+
+=item *
+
 C<< $a E<lt>=E<gt> $b >>
+
+=item *
+
 C<<< open(X, ">>thing.dat") || die $! >>>
+
+=item *
+
 C<< $foo->bar(); >>
+
+=back
 
 =head1 BEGIN FORMATS
 

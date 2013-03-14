@@ -22,18 +22,15 @@ no_index:
     - examples
     - corpus
 provides:
-  Acme::Web::PodDisplay:
-    file: lib/Acme/Web/PodDisplay.pm
-    version: 0.90
   Acme::Web::PodDisplay::Deeper:
     file: lib/Acme/Web/PodDisplay/Deeper.pm
-    version: 0.90
+    version: 0.91
 resources:
   X_irc: irc://irc.perl.org/#distzilla
   bugtracker: https://github.com/SineSwiper/Acme-Web-PodDisplay/issues
   homepage: https://github.com/SineSwiper/Acme-Web-PodDisplay/wiki
   repository: git://github.com/SineSwiper/Acme-Web-PodDisplay.git
-version: 0.90
+version: 0.91
 x_Dist_Zilla:
   perl:
     version: 5.016000
